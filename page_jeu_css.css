@@ -1,0 +1,17 @@
+body{
+	background-image:url("fond_de_page.jfif");
+	background-repeat:no-repeat; 
+	background-size:100%; 
+}
+h1{
+	border:2px solid white;
+	background:white;
+}
+.MATHEMATICO{
+	height: 600px;
+	width: 70%;
+	margin: 0 auto;
+	background-color: #68d8a6;
+	text-align:center;
+
+}
